@@ -7,7 +7,7 @@ cask "ittan" do
   desc "Native macOS file shelf"
   homepage "https://github.com/RyoyaFukasawa/Ittan"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Ittan.app"
 end
