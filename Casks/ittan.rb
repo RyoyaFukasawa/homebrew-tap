@@ -1,6 +1,6 @@
 cask "ittan" do
-  version "0.2.0"
-  sha256 "8045af949183e2abf6609608f9109a8b41dcb9e40bb9111220998ca9d4bd9d1b"
+  version "0.2.1"
+  sha256 "ea7474fee78887b281297d5a1d97470304ce4157f34fa7edc78b3f1d649700ec"
 
   url "https://github.com/RyoyaFukasawa/Ittan/releases/download/v#{version}/Ittan.dmg"
   name "Ittan"
